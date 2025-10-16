@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # moviesapp
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# movie_app
+Flutter movie app using Clean Architecture and Bloc for state management
+>>>>>>> 2fc60805f9069ee6fb6d4e7c1d7187dc57e414f7
